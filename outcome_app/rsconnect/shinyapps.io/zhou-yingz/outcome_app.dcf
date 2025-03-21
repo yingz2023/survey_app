@@ -1,0 +1,12 @@
+name: outcome_app
+title:
+username: zhou-yingz
+account: zhou-yingz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12184387
+bundleId: 8754748
+url: https://zhou-yingz.shinyapps.io/outcome_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
